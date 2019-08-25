@@ -41,4 +41,3 @@ II.	finalserver.py -This program runs on server which takes input image stream f
 III.	Android app - It takes input from owner whether to authenticate the user or not and sends the authentication status to server which in turn sends it to pi.
 9.	Now, when server sends authentication status to Pi it should give voice message "welcome home Teja!" , for this we need to install amazon TTS
 10.	Install it from here- https://aws.amazon.com/polly/
-
